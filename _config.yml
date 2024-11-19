@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "My GitHub Page"
+description: "A GitHub Pages site using the Minimal theme"
+baseurl: "" # Leave blank for user pages
+url: "https://kalee914.github.io"
 theme: jekyll-theme-minimal
+
