@@ -1,9 +1,6 @@
 title: "Ka Lee Li"
 logo: /assets/img/Kalee.png
-description: "Aspiring Data Engineer with a strong foundation in data analysis, 
-database management, and software development, with additional interests in web and system development. 
-Proficient in diverse programming languages and tools and skilled in effective communication and collaboration. 
-Seeking to apply technical expertise and hands-on project experience in a data engineering role while exploring web and system development opportunities."
+description: "Aspiring Database Engineer with a strong foundation in data analysis, database management, and software development. Proficient in various programming languages and tools, with strong communication skills. Seeking a database engineering role while exploring web and system development opportunities"
 baseurl: "" # Leave blank 
 url: "https://kalee914.github.io"
 theme: jekyll-theme-minimal
