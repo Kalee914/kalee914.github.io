@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+## 😴 Empty Page
+
+Nothing here yet! I'll add something interesting soon.
 
 [back](./)
