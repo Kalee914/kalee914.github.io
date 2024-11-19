@@ -1,6 +1,7 @@
-title: "My GitHub Page"
+title: "Ka Lee Li"
+logo: /assets/img/kalee.png
 description: "A GitHub Pages site using the Minimal theme"
-baseurl: "" # Leave blank for user pages
+baseurl: "" # Leave blank 
 url: "https://kalee914.github.io"
 theme: jekyll-theme-minimal
 
