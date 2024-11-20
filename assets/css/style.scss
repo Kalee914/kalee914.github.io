@@ -3,9 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+/* body backgound and font color*/
 body {
     background-image: linear-gradient(to right,#020024 0%, #1f305ec3 7%, #c3e8f0c3 45%); 
-    color: #000000; /* Set body font color */
+    color: #000000; 
 }
 /* Header Fonts */
 h1, h2, h3, h4, h5, h6 {
