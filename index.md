@@ -3,8 +3,15 @@ layout: default
 ---
 [Link to another page](./another-page.html).
 
-## _Introduction_
-Hi, my name is Kalee Li. I'm an aspiring Database Engineer with a strong foundation in data analysis, database management, and software development. Currently pursuing a Computer Science degree at Southern New Hampshire University, I am proficient in various programming languages and tools. With solid communication skills, I am eager to explore opportunities in both database engineering and web/system development.
+# _Project Portfolio_
+
+Welcome to my portfolio, showcasing three key projects in **Software Engineering and Design**, **Algorithms and Data Structures**, and **Databases**. These projects highlight my development in the following areas:
+
+- **Collaborative Environment**
+- **Professional Communication**
+- **Computing Solution**
+- **Innovation Techniques**
+- **Security Mindset**
 
 ## _Table of Contents_
 1. **Professional self-assessment**
