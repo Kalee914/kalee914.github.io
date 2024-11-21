@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Link to another page](./another-page.html).
 ## Table of Contents
 1. Professional self-assessment
 2. Code review
