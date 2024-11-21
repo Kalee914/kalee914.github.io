@@ -571,9 +571,10 @@ footer {
     color: #444;
   }
 }
+/* body backgound and font color*/
 body {
   background-image: linear-gradient(to right, #020024 0%, rgba(31, 48, 94, 0.7647058824) 7%, rgba(195, 232, 240, 0.7647058824) 45%);
-  color: #000000; /* Set body font color */
+  color: #000000;
 }
 
 /* Header Fonts */
