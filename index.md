@@ -73,7 +73,6 @@ This enhancement focused on improving user interaction by implementing authentic
 
 ![Test User Registeration](assets/img/testuserRegtr.png)
 ![Dashboard Interface](assets/img/dashInterface.png)
-
 [Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Software-Design-and-Engineering)
 
 [Back to the Top](#introduction)
@@ -96,7 +95,7 @@ Text-Based Game “Don’t Wake Dad” - Database Management and Data Analytics
 
 This artifact is a Text-Based Game called "Don't Wake Dad!" The idea of the game is that the player navigates through rooms, collecting all the items in each room (cleaning the house) while avoiding waking the dad up by entering the parent's room before all the items are collected. This game was created when I took my first Python class, IT140, Introduction of Scripting, in the winter of 2021. This project holds nostalgic value as it represents the start of my programming journey. I selected this artifact to enhance and highlight my growth in coding and database management. The original game contained all the logic in a single script, showcasing basic programming concepts.
 
-For this enhancement, I refactored the code to improve its structure and functionality. By modularizing the functions, I increased the code's readability and maintainability. Furthermore, I integrated a database to track player progress and generate an analysis report of average wins and losses. These updates enhanced the game’s functionality and player engagement, demonstrating my database management and data analytics skills and highlighting my growth in creating interactive and data-supported programs. 
+For this enhancement, I refactored the code to improve its structure and functionality. By modularizing the functions, I increased the code's readability and maintainability. Furthermore, I integrated a SQLite database to track player progress and generate an analysis report of average wins and losses. These updates enhanced the game’s functionality and player engagement, demonstrating my database management and data analytics skills and highlighting my growth in creating interactive and data-supported programs. 
 
 ![Player Registration](assets/img/player1Regtr.png)
 ![Player Not Track](assets/img/playerNoTrack.png)
