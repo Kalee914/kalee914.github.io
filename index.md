@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-[Link to another page](./another-page.html).
-[Link to new page](./new-page.html).
+[Data Analysis Projects](./data-analysis.html).
+[Junior Data Engineer Projects](./data-engineering.html).
+[CS Capstone Project ](./cs-capstone.html).
 # _Introduction_
 
 Welcome to my portfolio. My name is Ka Lee Li, and I have been a student in the Southern New Hampshire University (SNHU) Computer Science program for four years. Throughout this journey, I’ve developed technical skills and essential professional abilities that prepare me to be proficient in the computer science field. Completing my coursework and developing a portfolio has allowed me to showcase three of my enhanced projects focused on **_Software Engineering and Design_**, **_Algorithms and Data Structures_**, and **_Databases_**, demonstrating my strengths in the following areas: _**Collaborative Environment, Professional Communication, Computing Solutions, Innovation Techniques, and Security Mindset**_. 
