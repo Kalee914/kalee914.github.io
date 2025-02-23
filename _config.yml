@@ -1,6 +1,11 @@
 title: "Ka Lee Li"
 logo: /assets/img/KaleePic.png
 description: "Computer Science Student at SNHU | Skilled in Data Analysis, DB Management & Development | Aspiring Database Engineer | Exploring Web/System Dev"
-url: "https://kalee914.github.io"
+linkedin: https://www.linkedin.com/in/kalee-l-566433184/
+
+github: 
+  is_user_page: true
+  owner_url: "https://kalee914.github.io"
+
 theme: jekyll-theme-minimal
 
