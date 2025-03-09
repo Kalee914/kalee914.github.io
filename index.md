@@ -1,107 +1,118 @@
 ---
 layout: default
 ---
-[Data Analysis Projects](./data-analysis.html).
-[Junior Data Engineer Projects](./data-engineering.html).
-[Junior Solution Engineer Projects](./solution-engineering.html).
-[CS Capstone Project ](./cs-capstone.html).
-# _Introduction_
+# Kalee's E-Portfolio
 
-Welcome to my portfolio. My name is Ka Lee Li, and I have been a student in the Southern New Hampshire University (SNHU) Computer Science program for four years. Throughout this journey, I’ve developed technical skills and essential professional abilities that prepare me to be proficient in the computer science field. Completing my coursework and developing a portfolio has allowed me to showcase three of my enhanced projects focused on **_Software Engineering and Design_**, **_Algorithms and Data Structures_**, and **_Databases_**, demonstrating my strengths in the following areas: _**Collaborative Environment, Professional Communication, Computing Solutions, Innovation Techniques, and Security Mindset**_. 
+## Introduction
+[Skip to Table of Contents](#table-of-contents)
+
+Hi, my name is Kalee—welcome to my website! I am a Junior Data Engineer, Solution Engineer, and Analyst with a strong foundation in data analysis, database management, and programming, along with a Computer Science degree. My expertise includes analyzing data, conducting research, and generating insights through various data management techniques and visualization methods. I focus on working with relational and non-relational databases, automating data processes, and creating efficient workflows to support informed decision-making. 
+
+I also have experience designing and implementing solutions to improve workflows and solve complex problems. I optimize data pipelines, automate workflows, and apply data-driven strategies to enhance user experiences. Whether extracting valuable trends, designing efficient ETL processes, or creating compelling visualizations, I aim to make complex data accessible and actionable.  
+
+Feel free to explore my projects on this website (E-Portfolio), check out my work on [GitHub](https://github.com/Kalee914), or connect with me on [LinkedIn](https://www.linkedin.com/in/kalee-l-566433184/)! 
 
 ## _Table of Contents_
-1. **[Professional Self-Assessment - Skills Overview](#1-professional-self-assessment---skills-overview)**
-    - [1.1. Collaborating in a Team Environment](#11-collaborating-in-a-team-environment)
-    - [1.2. Communicating with Stakeholders](#12-communicating-with-stakeholders)
-    - [1.3. Software Design and Engineering](#13-software-design-and-engineering)
-    - [1.4. Algorithms and Data Structure](#14-algorithms-and-data-structure)
-    - [1.5. Databases](#15-databases)
-2. **[Code Review](#2-code-review)**
-3. **[Enchancements](#3-enhancements)**
-    - [Enhancement 1: Software Design and Engineering (Authentication and Authorization)](#enhancement-1-software-design-and-engineering)
-    - [Enhancement 2: Algorithms and Data Structure (Security and Authentication)](#enhancement-2-algorithms-and-data-structure)
-    - [Enhancement 3: Databases(Database Management and Data Analytics)](#enhancement-3-databases)
+- [Introduction](#introduction)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Volunteer Experience](#volunteer-experience)
+- [Projects](#projects)
+- [Soft Skills](#soft-skills)
+- [Resume](#resume)
 
-## _1. Professional self-assessment - Skills Overview_
+[Back to Top](#kalees-e-portfolio)
 
-As a Computer Science student, I’ve gained critical insights into writing good code, emphasizing readability, maintainability, and adherence to ethical standards. Good code isn't just error-free and runnable; it should be well-structured and easy for other Developers/Engineers to read, understand, and maintain. In addition to writing readable code, I learned the importance of implementing authentication and authorization measures and following the GDPR during the application development process to protect our users' PHI and PII. One of my coursework in CS 250: Software Development Lifecycle introduced me to the Agile methodology, which I now apply in organizing tasks and addressing problems systematically on a daily basis. These experiences reflect my values of collaboration, precision, and continuous improvement.
+## _Technical Skills_
 
-[Back to the Top](#introduction)
+**Programming Languages:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python (Pandas, Matplotlib, NumPy), R, JavaScript, C++  
 
-### 1.1. Collaborating in a Team Environment
+**Databases & Warehousing:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RDBMS (SQL, MySQL, SQLite), NoSQL (MongoDB, Mongoose, Firebase), BigQuery  
 
-I have focused on ensuring that my code is clear, maintainable, and easy for other developers to understand. This emphasizes the importance of readable code in a collaborative team environment so that the other developers can easily follow the logic and structure, whether we are working on the same project or reviewing the code at a later stage. 
-In addition to writing clean code, I have conducted a code review before working on enhancement projects to ensure it meets best practices. This self-review process to ensure the code is concise, well-commented, and update-ready improved the code quality, aligning it with industry standards. 
+**Data Engineering:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL, Data Pipelines, Data Transformation, Web Scraping (Selenium, BeautifulSoup, AsyncPRAW)  
 
-[Back to the Top](#introduction)
-### 1.2. Communicating with Stakeholders
+**Data Analysis & Mining:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Trend Analysis (Google Trends API/Pytrends), Classification, Text Mining  
 
-As mentioned earlier, I was introduced to agile methodology when I took CS250; I learned that the project charter is one of the key documents for the agile team to communicate effectively with stakeholders and is often created at the start of the project. The project charter provides a high-level overview comprising project participants such as teammates and stakeholders, communication guidelines, project objectives, requirements, constraints, rules, tools, deliverables, and success criteria. In addition to the elements included in the charter document, we should keep it concise, clear, and specific and involve stakeholders early to get their input.  This coursework has equipped me with the skills to ensure clear and effective communication with stakeholders throughout the project lifecycle. 
+**Visualization & Reporting:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau, Power BI, Excel, Google Sheets, ggplot (R)  
 
-[Back to the Top](#introduction)
+**Frameworks & Tech:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js, Angular, Node.js (MEAN Stack), Google Apps Script
 
-### 1.3. Software Design and Engineering
+**Tools & Environments:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code  
 
-This artifact showcases my ability to design and enhance interactive software applications that focus on user interaction. It highlights the development and implementation of authentication and authorization features in the web-based dashboard. This work demonstrated user-centric design, secure access management, and backend development using Python, Dash, and MongoDB. 
+**Project Management:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agile (Scrum)  
 
-[Back to the Top](#introduction)
+[Back to Table of Contents](#table-of-contents)
 
-### 1.4. Algorithms and Data Structure
+## _Education_
 
-This artifact demonstrates my ability to integrate complex algorithms and data structures to strengthen application security. I incorporated cryptographic practices and role-based access control mechanisms to ensure secure credential management and access control in the web application. This project reflects my skills in implementing secure workflows, working with hashing algorithms, and managing database authentication. 
+**Associate Degree in Computer Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern New Hampshire University — March 2023  
 
-[Back to the Top](#introduction)
+**Bachelor of Science in Computer Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern New Hampshire University — March 2025  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computer Science Capstone Project](./cs-capstone.html)  
 
-### 1.5. Databases
+## _Certifications_  
 
-This artifact highlights my growth in database management and analytical skills through the enhancement of a nostalgic text-based game. I integrated an SQLite database to track player performance and generate analytical insights, transforming a simple game into a data-driven program. This work showcases my skills in managing databases, performing data analysis, and refactoring code for scalability and maintainability.  
+![Google Data Analytics Professional Certificate](assets/img/google-data-analystic-cert-small.png)[Click here to view certificate](https://coursera.org/share/ba9fb6984954d1f7f568b757fae57747)  
 
-[Back to the Top](#introduction)
+![Google UX Design Professional Certificate](assets/img/google-ux-design-professional-cert-small.png)[Click here to view certificate](https://coursera.org/share/1c6a7f20e76947b027bacb0d5b7d0a84)  
 
-## _2. Code Review_
-### Code Reivew Video
+- **IBM Data Engineering** (In Progress)  
+- **IBM Full-Stack JavaScript Developer** (In Progress)  
 
-<iframe width="350" height="197" src="https://www.youtube.com/embed/X5N-xtKAyJ0?si=DF1IUjbieUU_OZnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Back to Table of Contents](#table-of-contents)
 
-[Back to the Top](#introduction)
+## _Volunteer Experience_  
 
-## _3. Enhancements_
-### Enhancement 1: Software Design and Engineering
-Animal Shelter Training Web Application - Authentication and Authorization
+**Data Research Analyst Intern – Cooledtured Collection**  
+- Conducted data research and analysis to support various initiatives within the organization, focusing on trend analysis and content performance.  
+- Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Tableau and Google Sheets.  
+- Led the **Competition Analysis for Inspiration** project by gathering and analyzing competitor data to identify key trends and potential strategies.  
+- Conducted **Social Media Content Analysis** to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
+- Identified bottlenecks within the content creation team through data-driven analysis and proposed improvements. Implemented solutions such as creating a **training module**, **visual aid**, **content library**, **workflow**, **time management**, and a **document tracker** to enhance team efficiency and resolve the bottleneck.  
+- Developed an **Automated Content ELT Pipeline** to streamline the extraction, transformation, and loading of social media data for further analysis, significantly reducing manual processing time.  
+- Worked closely with the marketing and content teams to ensure alignment between data insights and strategic decisions.  
 
-This artifact is an Animal Rescue Training web application dashboard designed for an international rescue animal training company. The purpose of the dashboard is to assist in identifying dogs for training by presenting data visually and interactively to support decision-making. The application uses Dash in Python to build the interface and Dash Leaflet to build map-based interaction, enabling users to view the animal's information and filter data based on specific parameters. It also incorporates libraries such as pandas, numpy, and matplotlib.pyplot, along with MongoDB for database management and CRUD functionality. This application was created when I took CS 340 Client/Server Development, term 2024 C-1 Jan to Mar. 
+[Back to Table of Contents](#table-of-contents)
 
-This enhancement focused on improving user interaction by implementing authentication and authorization features. Initially, the application used a hardcoded username and password for access. I removed this insecure practice and added user registration and login functionality, allowing for a secure user experience. These improvements refined its backend development aspects, demonstrating my skills in designing user-friendly interfaces, managing secure access, and performing database operations to support user interaction. 
+## _Projects_  
 
-![Test User Registeration](assets/img/testuserRegtr.png)
-![Dashboard Interface](assets/img/dashInterface.png)
-[Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Software-Design-and-Engineering)
+- **Competition Analysis for Inspiration** – [Data Analysis Projects](./data-analysis.html)  
+- **Social Media Content Analysis** – [Data Analysis Projects](./data-analysis.html)  
+- **Bottleneck Analysis for Content Creation Team** – [Junior Solution Engineer Projects](./solution-engineering.html)  
+- **Automated Content ELT Pipeline** – [Junior Data Engineer Projects](./data-engineering.html)
+- **Computer Science SNHU Capstone Project** - [Computer Science Capstone Project](./cs-capstone.html)   
 
-[Back to the Top](#introduction)
+[Back to Table of Contents](#table-of-contents)
 
-### Enhancement 2: Algorithms and Data Structure
-Animal Shelter Training Web Application - Security and Authentication
+## _Soft Skills_  
 
-This artifact is an Animal Rescue Training web application dashboard designed for an international rescue animal training company. The purpose of the dashboard is to assist in identifying dogs for training by presenting data visually and interactively to support decision-making. The application uses Dash in Python to build the interface and Dash Leaflet to build map-based interaction, enabling users to view the animal's information and filter data based on specific parameters. It also incorporates libraries such as pandas, numpy, and matplotlib.pyplot, along with MongoDB for database management and CRUD functionality. This application was created when I took CS 340 Client/Server Development, term 2024 C-1 Jan to Mar. 
+- **Active Listening**
+- **Critical & Analytical Thinking**
+- **Problem Solving**
+- **Collaboration**
+- **Communication**
+- **Creativity**
+- **Decision-Making**
+- **Leadership**
+- **Teamwork**
+- **Time Management** 
 
-This enhancement emphasizes securing sensitive user credentials by integrating the Bcrypt hashing library, utilizing MongoDB authentication mechanisms and role-based access control to assign users a specific role, and validating stored credentials in the Authentication Source database. This enhancement artifact demonstrates my understanding of authentication workflows, cryptographic algorithms, role assignments, and database access protocols, showcasing my ability to protect user information effectively and strengthen application security. 
+[Back to Table of Contents](#table-of-contents)
 
-![Test_hash Registeration](assets/img/hashRegtr.png)
-![Test_hash MongoDB](assets/img/hashUserDb.png)
-[Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Algorithms-and-Data-Structure)
+## _Resume_  
+You can view and download my resume here:  
 
-[Back to the Top](#introduction)
+[Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf)
 
-### Enhancement 3: Databases
-Text-Based Game “Don’t Wake Dad” - Database Management and Data Analytics
-
-This artifact is a Text-Based Game called "Don't Wake Dad!" The idea of the game is that the player navigates through rooms, collecting all the items in each room (cleaning the house) while avoiding waking the dad up by entering the parent's room before all the items are collected. This game was created when I took my first Python class, IT140, Introduction of Scripting, in the winter of 2021. This project holds nostalgic value as it represents the start of my programming journey. I selected this artifact to enhance and highlight my growth in coding and database management. The original game contained all the logic in a single script, showcasing basic programming concepts.
-
-For this enhancement, I refactored the code to improve its structure and functionality. By modularizing the functions, I increased the code's readability and maintainability. Furthermore, I integrated a SQLite database to track player progress and generate an analysis report of average wins and losses. These updates enhanced the game’s functionality and player engagement, demonstrating my database management and data analytics skills and highlighting my growth in creating interactive and data-supported programs. 
-
-![Player Registration](assets/img/player1Regtr.png)
-![Player Not Track](assets/img/playerNoTrack.png)
-![Player Stats Report](assets/img/playerStatsReport.png)
-[Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Database)
-
-[Back to the Top](#introduction)
+[Back to Table of Contents](#table-of-contents)
