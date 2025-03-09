@@ -3,6 +3,7 @@ layout: default
 ---
 [Data Analysis Projects](./data-analysis.html).
 [Junior Data Engineer Projects](./data-engineering.html).
+[Junior Solution Engineer Projects](./solution-engineering.html).
 [CS Capstone Project ](./cs-capstone.html).
 # _Introduction_
 
