@@ -63,9 +63,9 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 ## _Certifications_  
 
-![Google Data Analytics Professional Certificate](assets/img/google-data-analystic-cert-small.png)[Click here to view certificate](https://coursera.org/share/ba9fb6984954d1f7f568b757fae57747)  
+![Google Data Analytics Professional Certificate](assets/img/google-data-analystic-cert-small.png)[Click here to view certificate](https://coursera.org/share/ba9fb6984954d1f7f568b757fae57747){:target="_blank"}  
 
-![Google UX Design Professional Certificate](assets/img/google-ux-design-professional-cert-small.png)[Click here to view certificate](https://coursera.org/share/1c6a7f20e76947b027bacb0d5b7d0a84)  
+![Google UX Design Professional Certificate](assets/img/google-ux-design-professional-cert-small.png)[Click here to view certificate](https://coursera.org/share/1c6a7f20e76947b027bacb0d5b7d0a84){:target="_blank"}  
 
 - **IBM Data Engineering** (In Progress)  
 - **IBM Full-Stack JavaScript Developer** (In Progress)  
@@ -113,6 +113,6 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 ## _Resume_  
 You can view and download my resume here:  
 
-[Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf)
+[Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf){:target="_blank"}
 
 [Back to Table of Contents](#table-of-contents)
