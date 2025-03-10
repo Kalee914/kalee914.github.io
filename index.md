@@ -76,22 +76,35 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 **Data Research Analyst Intern – Cooledtured Collection**  
 - Conducted data research and analysis to support various initiatives within the organization, focusing on trend analysis and content performance.  
-- Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Tableau and Google Sheets.  
-- Led the **Competition Analysis for Inspiration** project by gathering and analyzing competitor data to identify key trends and potential strategies.  
-- Conducted **Social Media Content Analysis** to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
-- Identified bottlenecks within the content creation team through data-driven analysis and proposed improvements. Implemented solutions such as creating a **training module**, **visual aid**, **content library**, **workflow**, **time management**, and a **document tracker** to enhance team efficiency and resolve the bottleneck.  
+- Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Figma, Genially,Tableau and Google Sheets.  
+- Conducted the **Competition Analysis for Inspiration** project by gathering and analyzing competitor data to identify key trends and potential strategies.  
+- Worked closely with the management and content teams to ensure alignment between data insights and strategic decisions.
+- Led **Social Media Content Analysis** to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
+- Identified bottlenecks within the content creation team through data-driven analysis and direct team observation and proposed improvements. Implemented solutions such as creating a **training module**, **visual aid**, **content library**, **workflow**, **time management**, and a **document tracker** to enhance team efficiency and resolve the bottleneck.  
 - Developed an **Automated Content ELT Pipeline** to streamline the extraction, transformation, and loading of social media data for further analysis, significantly reducing manual processing time.  
-- Worked closely with the marketing and content teams to ensure alignment between data insights and strategic decisions.  
+  
 
 [Back to Table of Contents](#table-of-contents)
 
 ## _Projects_  
+**Cooledtured Internship Projects**
+- **Cooledture: Data Analysis Projects**  
+    - [Competition Analysis for Inspiration](./cooledtured-internship.html)  
+- **Data Analysis Projects**  
+    - [Social Media Content Analysis](./cooledtured-internship.html)  
+- **Junior Solution Engineer Projects**  
+    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html)  
+- **Junior Data Engineer Projects**  
+    - [Automated Content ELT Pipeline](./cooledtured-internship.html)   
 
-- **Competition Analysis for Inspiration** – [Data Analysis Projects](./data-analysis.html)  
-- **Social Media Content Analysis** – [Data Analysis Projects](./data-analysis.html)  
-- **Bottleneck Analysis for Content Creation Team** – [Junior Solution Engineer Projects](./solution-engineering.html)  
-- **Automated Content ELT Pipeline** – [Junior Data Engineer Projects](./data-engineering.html)
-- **Computer Science SNHU Capstone Project** - [Computer Science Capstone Project](./cs-capstone.html)   
+**SNHU Computer Science Capstone Project** - [Computer Science Capstone Project](./cs-capstone.html)
+- **Software Design and Engineering**
+    - [Authentication and Authorization](./cs-capstone.html#enhancement-1-software-design-and-engineering)  
+- **Algorithms and Data Structure**
+    - [Security and Authentication](./cs-capstone.html#enhancement-2-algorithms-and-data-structure)  
+- **Databases** 
+    - [Database Management and Data Analytics](./cs-capstone.html#enhancement-3-databases)  
+
 
 [Back to Table of Contents](#table-of-contents)
 

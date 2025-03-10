@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Junior Data Engineer Projects 
+## Welcome to Data Analysis cooledtured-internship
 
 ## 😴 Empty Page
 
