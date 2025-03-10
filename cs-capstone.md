@@ -19,7 +19,8 @@ Welcome to my portfolio. My name is Ka Lee Li, and I have been a student in the 
     - [Enhancement 1: Software Design and Engineering (Authentication and Authorization)](#enhancement-1-software-design-and-engineering)
     - [Enhancement 2: Algorithms and Data Structure (Security and Authentication)](#enhancement-2-algorithms-and-data-structure)
     - [Enhancement 3: Databases(Database Management and Data Analytics)](#enhancement-3-databases)
-4. **[Other Projects](#3-enhancements)**
+4. **[Other Projects](#4-other-projects)**
+    - [Cooledtured Internship Projects](./cooledtured-internship.html).
 
 ## _1. Professional self-assessment - Skills Overview_
 
@@ -106,9 +107,12 @@ For this enhancement, I refactored the code to improve its structure and functio
 [Back to the Top](#introduction)
 
 ## _4. Other Projects_
-- [Data Analysis Projects](./data-analysis.html).
-- [Junior Data Engineer Projects](./data-engineering.html).
-- [Junior Solution Engineer Projects](./solution-engineering.html).
-- [CS Capstone Project ](./cs-capstone.html).
+- **Data Analysis Projects**  
+    - [Competition Analysis for Inspiration](./cooledtured-internship.html#competition-analysis-for-inspiration)    
+    - [Social Media Content Analysis](./cooledtured-internship.html#social-media-content-analysis)  
+- **Junior Solution Engineer Projects**  
+    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)  
+- **Junior Data Engineer Projects**  
+    - [Automated Content ELT Pipeline](./cooledtured-internship.html#automated-content-elt-pipeline)
 
 [Back to the Top](#introduction)

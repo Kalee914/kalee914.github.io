@@ -87,8 +87,8 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 [Back to Table of Contents](#table-of-contents)
 
 ## _Projects_  
-**Cooledtured Internship Projects**
-- **Cooledture: Data Analysis Projects**  
+**Cooledtured Internship Projects** - [Cooledtured Internship Projects Overview](./cooledtured-internship.html)  
+- **Cooledture: Data Analysis Projects** 
     - [Competition Analysis for Inspiration](./cooledtured-internship.html)  
 - **Data Analysis Projects**  
     - [Social Media Content Analysis](./cooledtured-internship.html)  
@@ -97,7 +97,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - **Junior Data Engineer Projects**  
     - [Automated Content ELT Pipeline](./cooledtured-internship.html)   
 
-**SNHU Computer Science Capstone Project** - [Computer Science Capstone Project](./cs-capstone.html)
+**SNHU Computer Science Capstone Project** - [Computer Science Capstone Project Overview](./cs-capstone.html)
 - **Software Design and Engineering**
     - [Authentication and Authorization](./cs-capstone.html#enhancement-1-software-design-and-engineering)  
 - **Algorithms and Data Structure**
