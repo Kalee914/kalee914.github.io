@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-## Introduction
+# _Introduction_
+
 [Skip to Table of Contents](#table-of-contents)
 
 Hi, my name is Kalee—welcome to my E-Portfolio! I am a Junior Data Engineer, Solution Engineer, and Analyst with a strong foundation in data analysis, database management, and programming, along with a Computer Science degree. My expertise includes analyzing data, conducting research, and generating insights through various data management techniques and visualization methods. I focus on working with relational and non-relational databases, automating data processes, and creating efficient workflows to support informed decision-making. 
@@ -17,7 +18,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - [Volunteer Experience](#volunteer-experience)
 - [Projects](#projects)
 - [Soft Skills](#soft-skills)
-- [Resume](#resume)
+- [Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf){:target="_blank"}
 
 [Back to Introduction](#introduction)
 
