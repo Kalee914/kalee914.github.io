@@ -1,19 +1,16 @@
 ---
 layout: default
 ---
-# Kalee's E-Portfolio
-
 ## Introduction
 [Skip to Table of Contents](#table-of-contents)
 
-Hi, my name is Kalee—welcome to my website! I am a Junior Data Engineer, Solution Engineer, and Analyst with a strong foundation in data analysis, database management, and programming, along with a Computer Science degree. My expertise includes analyzing data, conducting research, and generating insights through various data management techniques and visualization methods. I focus on working with relational and non-relational databases, automating data processes, and creating efficient workflows to support informed decision-making. 
+Hi, my name is Kalee—welcome to my E-Portfolio! I am a Junior Data Engineer, Solution Engineer, and Analyst with a strong foundation in data analysis, database management, and programming, along with a Computer Science degree. My expertise includes analyzing data, conducting research, and generating insights through various data management techniques and visualization methods. I focus on working with relational and non-relational databases, automating data processes, and creating efficient workflows to support informed decision-making. 
 
 I also have experience designing and implementing solutions to improve workflows and solve complex problems. I optimize data pipelines, automate workflows, and apply data-driven strategies to enhance user experiences. Whether extracting valuable trends, designing efficient ETL processes, or creating compelling visualizations, I aim to make complex data accessible and actionable.  
 
 Feel free to explore my projects on this website (E-Portfolio), check out my work on [GitHub](https://github.com/Kalee914), or connect with me on [LinkedIn](https://www.linkedin.com/in/kalee-l-566433184/)! 
 
 ## _Table of Contents_
-- [Introduction](#introduction)
 - [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Certifications](#certifications)
@@ -22,7 +19,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - [Soft Skills](#soft-skills)
 - [Resume](#resume)
 
-[Back to Top](#kalees-e-portfolio)
+[Back to Introduction](#introduction)
 
 ## _Technical Skills_
 
