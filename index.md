@@ -33,7 +33,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RDBMS (SQL, MySQL, SQLite), NoSQL (MongoDB, Mongoose, Firebase), BigQuery  
 
 **Data Engineering:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL, Data Pipelines, Data Transformation, Web Scraping (Selenium, BeautifulSoup, AsyncPRAW)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL, Data Pipelines, Data Transformation, Web Scraping (Selenium, BeautifulSoup), API Wrapper/crawler (e.g., asyncpraw, tweepy, pytrends, Jikan). 
 
 **Data Analysis & Mining:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Trend Analysis (Google Trends API/Pytrends), Classification, Text Mining  
@@ -45,10 +45,10 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js, Angular, Node.js (MEAN Stack), Google Apps Script
 
 **Tools & Environments:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, App Script, MS Power Platform 
 
 **Project Management:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agile (Scrum)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDLC | Agile(Scrum) | Waterfall  
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -89,13 +89,14 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 ## _Projects_  
 **Cooledtured Internship Projects** - [Cooledtured Internship Projects Overview](./cooledtured-internship.html)  
 - **Cooledture: Data Analysis Projects** 
-    - [Competition Analysis for Inspiration](./cooledtured-internship.html)  
+    - [Competition Analysis for Inspiration](./cooledtured-internship.html#competition-analysis-for-inspiration)  
 - **Data Analysis Projects**  
-    - [Social Media Content Analysis](./cooledtured-internship.html)  
+    - [Social Media Content Analysis](./cooledtured-internship.html#social-media-content-analysis)  
 - **Junior Solution Engineer Projects**  
-    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html)  
+    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)  
 - **Junior Data Engineer Projects**  
-    - [Automated Content ELT Pipeline](./cooledtured-internship.html)   
+    - [Automated Content ELT Pipeline](./cooledtured-internship.html#automated-content-elt-pipeline)
+    - [Form Tracker](./cooledtured-internship.html#form-tracker)   
 
 **SNHU Computer Science Capstone Project** - [Computer Science Capstone Project Overview](./cs-capstone.html)
 - **Software Design and Engineering**
@@ -103,7 +104,11 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - **Algorithms and Data Structure**
     - [Security and Authentication](./cs-capstone.html#enhancement-2-algorithms-and-data-structure)  
 - **Databases** 
-    - [Database Management and Data Analytics](./cs-capstone.html#enhancement-3-databases)  
+    - [Database Management and Data Analytics](./cs-capstone.html#enhancement-3-databases)
+
+- **Self-Project** (In-Progress)
+    - Pytrend
+    - PowerFunQuest
 
 
 [Back to Table of Contents](#table-of-contents)
