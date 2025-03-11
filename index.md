@@ -48,7 +48,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, App Script, MS Power Platform 
 
 **Project Management:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDLC | Agile(Scrum) | Waterfall  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDLC | Agile (Scrum) | Waterfall  
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -106,9 +106,9 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - **Databases** 
     - [Database Management and Data Analytics](./cs-capstone.html#enhancement-3-databases)
 
-- **Self-Project** (In-Progress)
-    - Pytrend
-    - PowerFunQuest
+**Self-Project** (In-Progress)
+- **Pytrend**
+- **PowerFunQuest**
 
 
 [Back to Table of Contents](#table-of-contents)
