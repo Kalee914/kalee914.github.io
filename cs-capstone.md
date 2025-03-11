@@ -3,7 +3,7 @@ layout: default
 ---
 [Back to Home Page](./)
 
-# _Introduction_
+## Academic Journey at SNHU 
 
 I began the Southern New Hampshire University (SNHU) Computer Science program in the Fall of 2020 and graduated in March 2025.Throughout this journey, I’ve developed technical skills and essential professional abilities that prepare me to be proficient in the computer science field. Completing my coursework and developing a portfolio has allowed me to showcase three of my enhanced projects focused on **_Software Engineering and Design_**, **_Algorithms and Data Structures_**, and **_Databases_**, demonstrating my strengths in the following areas: _**Collaborative Environment, Professional Communication, Computing Solutions, Innovation Techniques, and Security Mindset**_. 
 
@@ -26,44 +26,44 @@ I began the Southern New Hampshire University (SNHU) Computer Science program in
 
 As a Computer Science student, I’ve gained critical insights into writing good code, emphasizing readability, maintainability, and adherence to ethical standards. Good code isn't just error-free and runnable; it should be well-structured and easy for other Developers/Engineers to read, understand, and maintain. In addition to writing readable code, I learned the importance of implementing authentication and authorization measures and following the GDPR during the application development process to protect our users' PHI and PII. One of my coursework in CS 250: Software Development Lifecycle introduced me to the Agile methodology, which I now apply in organizing tasks and addressing problems systematically on a daily basis. These experiences reflect my values of collaboration, precision, and continuous improvement.
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### 1.1. Collaborating in a Team Environment
 
 I have focused on ensuring that my code is clear, maintainable, and easy for other developers to understand. This emphasizes the importance of readable code in a collaborative team environment so that the other developers can easily follow the logic and structure, whether we are working on the same project or reviewing the code at a later stage. 
 In addition to writing clean code, I have conducted a code review before working on enhancement projects to ensure it meets best practices. This self-review process to ensure the code is concise, well-commented, and update-ready improved the code quality, aligning it with industry standards. 
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 ### 1.2. Communicating with Stakeholders
 
 As mentioned earlier, I was introduced to agile methodology when I took CS250; I learned that the project charter is one of the key documents for the agile team to communicate effectively with stakeholders and is often created at the start of the project. The project charter provides a high-level overview comprising project participants such as teammates and stakeholders, communication guidelines, project objectives, requirements, constraints, rules, tools, deliverables, and success criteria. In addition to the elements included in the charter document, we should keep it concise, clear, and specific and involve stakeholders early to get their input.  This coursework has equipped me with the skills to ensure clear and effective communication with stakeholders throughout the project lifecycle. 
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### 1.3. Software Design and Engineering
 
 This artifact showcases my ability to design and enhance interactive software applications that focus on user interaction. It highlights the development and implementation of authentication and authorization features in the web-based dashboard. This work demonstrated user-centric design, secure access management, and backend development using Python, Dash, and MongoDB. 
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### 1.4. Algorithms and Data Structure
 
 This artifact demonstrates my ability to integrate complex algorithms and data structures to strengthen application security. I incorporated cryptographic practices and role-based access control mechanisms to ensure secure credential management and access control in the web application. This project reflects my skills in implementing secure workflows, working with hashing algorithms, and managing database authentication. 
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### 1.5. Databases
 
 This artifact highlights my growth in database management and analytical skills through the enhancement of a nostalgic text-based game. I integrated an SQLite database to track player performance and generate analytical insights, transforming a simple game into a data-driven program. This work showcases my skills in managing databases, performing data analysis, and refactoring code for scalability and maintainability.  
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ## _2. Code Review_
 ### Code Reivew Video
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/X5N-xtKAyJ0?si=DF1IUjbieUU_OZnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ## _3. Enhancements_
 ### Enhancement 1: Software Design and Engineering
@@ -77,7 +77,7 @@ This enhancement focused on improving user interaction by implementing authentic
 ![Dashboard Interface](assets/img/dashInterface.png)
 [Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Software-Design-and-Engineering)
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### Enhancement 2: Algorithms and Data Structure
 Animal Shelter Training Web Application - Security and Authentication
@@ -90,7 +90,7 @@ This enhancement emphasizes securing sensitive user credentials by integrating t
 ![Test_hash MongoDB](assets/img/hashUserDb.png)
 [Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Algorithms-and-Data-Structure)
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ### Enhancement 3: Databases
 Text-Based Game “Don’t Wake Dad” - Database Management and Data Analytics
@@ -104,7 +104,7 @@ For this enhancement, I refactored the code to improve its structure and functio
 ![Player Stats Report](assets/img/playerStatsReport.png)
 [Click here to explore the project on GitHub](https://github.com/Kalee914/kalee914.github.io/tree/Database)
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)
 
 ## _4. Other Projects_
 - **Data Analysis Projects**  
@@ -116,4 +116,4 @@ For this enhancement, I refactored the code to improve its structure and functio
     - [Automated Content ELT Pipeline](./cooledtured-internship.html#automated-content-elt-pipeline)
     - [Form Tracker](./cooledtured-internship.html#form-tracker)  
 
-[Back to the Top](#introduction)
+[Back to the Top](#academic-journey-at-snhu)

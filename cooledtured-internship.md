@@ -2,15 +2,14 @@
 layout: default
 ---
 
-## Welcome to Data Analysis cooledtured-internship
-
-## 😴 Under Construction
+# 😴 Under Construction
+## Welcome to My Cooledtured-internship projects overview
+### My Experience at Cooledtured
 
 Nothing here yet! I'll add something interesting soon.
 
 [Back To Home](./)
 
-# _Introduction_
 ## _Table of Contents_
 - **Data Analysis Projects**  
     - [Competition Analysis for Inspiration](#competition-analysis-for-inspiration)
