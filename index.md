@@ -95,8 +95,8 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - **Junior Solution Engineer Projects**  
     - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)  
 - **Junior Data Engineer Projects**  
-    - [Automated Content ELT Pipeline](./cooledtured-internship.html#automated-content-elt-pipeline)
-    - [Form Tracker](./cooledtured-internship.html#form-tracker)   
+    - [Automated Content ELT Pipeline (Junior-Level))](./cooledtured-internship.html#automated-content-elt-pipeline)
+    - [Form Tracker (Entry-Level)](./cooledtured-internship.html#form-tracker)   
 
 **SNHU Computer Science Capstone Project** - [Computer Science Capstone Project Overview](./cs-capstone.html)
 - **Software Design and Engineering**
