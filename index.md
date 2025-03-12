@@ -5,9 +5,9 @@ layout: default
 
 [Skip to Table of Contents](#table-of-contents)
 
-Hi, my name is Kalee—welcome to my E-Portfolio! I am a Junior Data Engineer, Solution Engineer, and Analyst with a strong foundation in data analysis, database management, and programming, along with a Computer Science degree. My expertise includes analyzing data, conducting research, and generating insights through various data management techniques and visualization methods. I focus on working with relational and non-relational databases, automating data processes, and creating efficient workflows to support informed decision-making. 
+Hi, I’m Kalee. Welcome to my E-Portfolio! I’m a Junior Data Engineer, Solution Engineer, and Analyst with a passion for turning data into actionable insights. With a strong foundation in data analysis, database management, and programming (thanks to my Computer Science degree), I’m always eager to learn and grow in the field. As a fast learner, I’m constantly seeking new challenges to improve my skills and expand my knowledge.
 
-I also have experience designing and implementing solutions to improve workflows and solve complex problems. I optimize data pipelines, automate workflows, and apply data-driven strategies to enhance user experiences. Whether extracting valuable trends, designing efficient ETL processes, or creating compelling visualizations, I aim to make complex data accessible and actionable.  
+I specialize in implementing solutions that solve complex problems, optimize data pipelines, and automate workflows to make processes more efficient. I also love creating visualizations that make complex data easy to understand. Whether it’s improving systems or extracting valuable trends, I’m dedicated to making data both powerful and accessible to drive better decisions.
 
 Feel free to explore my projects on this website (E-Portfolio), check out my work on [GitHub](https://github.com/Kalee914), or connect with me on [LinkedIn](https://www.linkedin.com/in/kalee-l-566433184/)! 
 
@@ -15,7 +15,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Certifications](#certifications)
-- [Volunteer Experience](#volunteer-experience)
+- [Volunteer Experience At Cooledture Collection](#volunteer-experience)
 - [Projects](#projects)
 - [Soft Skills](#soft-skills)
 - [Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf){:target="_blank"}
@@ -37,13 +37,13 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Trend Analysis (Google Trends API/Pytrends), Classification, Text Mining  
 
 **Visualization & Reporting:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau, Power BI, Excel, Google Sheets, ggplot (R)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau, Power BI, Excel, Google Sheets, ggplot (R), Lucidchart, GoogleSlide, Genially  
 
 **Frameworks & Tech:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js, Angular, Node.js (MEAN Stack), Google Apps Script
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js, Angular, Node.js (MEAN Stack)
 
 **Tools & Environments:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, App Script, MS Power Platform 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, Google App Script, MS Power Platform 
 
 **Project Management:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDLC | Agile (Scrum) | Waterfall  
@@ -72,14 +72,14 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 ## _Volunteer Experience_  
 
-**Data Research Analyst Intern – Cooledtured Collection**  
+[**Data Research Analyst Intern – Cooledtured Collection**](./cooledtured-internship.html) 
 - Conducted data research and analysis to support various initiatives within the organization, focusing on trend analysis and content performance.  
+- Collaborated closely with the stakeholders and teams to ensure alignment between data insights and strategic decisions.
 - Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Figma, Genially,Tableau and Google Sheets.  
-- Conducted the **Competition Analysis for Inspiration** project by gathering and analyzing competitor data to identify key trends and potential strategies.  
-- Worked closely with the management and content teams to ensure alignment between data insights and strategic decisions.
-- Led **Social Media Content Analysis** to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
-- Identified bottlenecks within the content creation team through data-driven analysis and direct team observation and proposed improvements. Implemented solutions such as creating a **training module**, **visual aid**, **content library**, **workflow**, **time management**, and a **document tracker** to enhance team efficiency and resolve the bottleneck.  
-- Developed an **Automated Content ELT Pipeline** to streamline the extraction, transformation, and loading of social media data for further analysis, significantly reducing manual processing time.  
+- Conducted Competition Analysis for Inspiration by gathering and analyzing competitor data to identify key trends and potential strategies.  
+- Led Social Media Content Analysis to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
+- Identified bottlenecks within the content creation team through data-driven analysis and team observation. Proposed and implemented improvements to enhance team efficiency and resolve workflow challenges.  
+- Developed an Automated Content ELT Pipeline to streamline the extraction, transformation, and loading of social media data for further analysis, significantly reducing manual processing time.  
   
 
 [Back to Table of Contents](#table-of-contents)
