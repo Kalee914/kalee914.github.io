@@ -47,8 +47,8 @@ To ensure comprehensive analysis, various data sources were utilized:
 This analysis provided valuable insights into how BoxLunch engages its audience, expands its physical presence, and manages employee satisfaction to drive consumer loyalty. By combining data scraping, Google Trends analysis, and manual tracking, we identified key marketing strategies that contribute to the brand’s success. The study highlights the effectiveness of exclusive products, influencer marketing, and community engagement in fostering strong customer relationships. These findings offer inspiration for refining marketing approaches in similar industries.
 
 ### Visual and Presentation
-- [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing) – Includes insight and suggestions.
-- [R Visualization with Code](https://colab.research.google.com/drive/1AOOwmmJNTYUtVa_ZQwF90-9yWEyN01m-?usp=sharing) – Access the R code and visualizations.
+- [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing){:target="_blank"} – Includes insight and suggestions.
+- [R Visualization with Code](https://colab.research.google.com/drive/1AOOwmmJNTYUtVa_ZQwF90-9yWEyN01m-?usp=sharing){:target="_blank"} – Access the R code and visualizations.
 
 
 ## Social Media Content Analysis
