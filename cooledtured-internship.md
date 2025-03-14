@@ -12,7 +12,7 @@ Nothing here yet! I'll add something interesting soon.
 
 ## _Table of Contents_
 - **Data Analysis Projects**  
-    - [Competition Analysis for Inspiration (solo project) ](#competition-analysis-for-inspiration)
+    - [Competition Analysis for Inspiration (solo project) ](#competition-analysis-for-inspiration-boxlunch-solo-project)
     - [Social Media Content Analysis (Team project)](#social-media-content-analysis)
   
 - **Junior Solution Engineer Projects**  
@@ -27,11 +27,30 @@ Nothing here yet! I'll add something interesting soon.
     - [SNHU Computer Science Capstone Project](./cs-capstone.html)
 
 
-## Competition Analysis for Inspiration
-(Solo Project)
-    - Description 
-    - Visualization
-    - Reflection
+## Competition Analysis for Inspiration: BoxLunch (Solo Project)
+
+### Project Overview
+This project analyzes BoxLunch as a source of inspiration, identifying key strategies that drive its success. By examining its strengths, weaknesses, opportunities, and threats (SWOT), along with marketing efforts, consumer engagement, and store expansion, we gain valuable insights into best practices for brand growth. The analysis leverages web scraping, Google Trends, and manual data collection to ensure a comprehensive understanding of BoxLunch’s market presence.
+
+### Research Question
+How do BoxLunch marketing strategies, including social media engagement, store growth, and employee satisfaction influence consumer behavior and enhance customer engagement?
+
+### Data Collection Methods
+To ensure comprehensive analysis, various data sources were utilized:
+- **Reddit Data Extraction (asyncpraw API)** – Retrieved consumer discussions and sentiment data from Reddit.
+- **YouTube Scraping (Selenium WebDriver - Chrome)** – Collected search query data to analyze BoxLunch’s content strategy and engagement levels.
+- **Google Trends** – Identified shifts in consumer interest, pinpointing key seasonal trends and promotional effectiveness.
+- **Manual Data Collection (Facebook Event Pages)** – Tracked grand opening events to analyze store expansion.
+- **Glassdoor & Indeed Ratings** – Evaluated workplace culture and employee satisfaction to assess its impact on brand perception.
+
+### Reflection
+This analysis provided valuable insights into how BoxLunch engages its audience, expands its physical presence, and manages employee satisfaction to drive consumer loyalty. By combining data scraping, Google Trends analysis, and manual tracking, we identified key marketing strategies that contribute to the brand’s success. The study highlights the effectiveness of exclusive products, influencer marketing, and community engagement in fostering strong customer relationships. These findings offer inspiration for refining marketing approaches in similar industries.
+
+### Visual and Presentation
+- [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing) – Includes insight and suggestions.
+- [R Visualization with Code](https://colab.research.google.com/drive/1AOOwmmJNTYUtVa_ZQwF90-9yWEyN01m-?usp=sharing) – Access the R code and visualizations.
+
+
 ## Social Media Content Analysis
 (Team project)
     - Description 

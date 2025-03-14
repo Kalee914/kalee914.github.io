@@ -72,7 +72,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 ## _Volunteer Experience_  
 
-[**Data Research Analyst Intern – Cooledtured Collection**](./cooledtured-internship.html) 
+[Data Research Analyst Intern – Cooledtured Collection](./cooledtured-internship.html) 
 - Conducted data research and analysis to support various initiatives within the organization, focusing on trend analysis and content performance.  
 - Collaborated closely with the stakeholders and teams to ensure alignment between data insights and strategic decisions.
 - Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Figma, Genially,Tableau and Google Sheets.  
