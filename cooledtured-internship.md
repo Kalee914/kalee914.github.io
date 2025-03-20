@@ -16,10 +16,10 @@ Nothing here yet! I'll add something interesting soon.
     - [Social Media Content Analysis (Team project)](#social-media-insight-and-content-analysis)
 - **Junior Solution Engineer Projects**  
     - [Bottleneck Analysis for Content Creation Team (solo project)](#bottleneck-analysis-for-content-creation-team)
-    - [Data Team Optimization Strategy Project (Team project)](#team-optimization-strategy-project)
+    - [Data Team Optimization Strategy Project (Team project)](#data-team-optimization-strategy-project)
 - **Entry Level and Junior Level Data Engineer Projects**  
     - [Automated Content ELT Pipeline (solo project)](#automated-content-elt-pipeline)
-    - [Form Tracker](#form-tracker (solo project))
+    - [Form Tracker(solo project)](#form-tracker)
 - **Junior Process Automation Engineering Project**
     - [RecruitmentFlow Automation (Team project)](#recruitmentflow-automation)         
 - **Other Projects**
