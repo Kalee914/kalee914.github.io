@@ -3,9 +3,9 @@ layout: default
 ---
 # _Introduction_
 
-[Skip to Table of Contents](#table-of-contents)
+Hi, I’m Kalee, and welcome to my E-Portfolio! Here, you'll find my resume, details about my areas of specialization, projects I've worked on, and more about my journey. Feel free to jump straight to the table of contents to explore, or keep scrolling to check out everything I’ve shared! [Skip to Table of Contents](#table-of-contents)
 
-Hi, I’m Kalee. Welcome to my E-Portfolio! I’m a Junior Data Engineer, Solution Engineer, and Analyst with a passion for turning data into actionable insights. With a strong foundation in data analysis, database management, and programming (thanks to my Computer Science degree), I’m always eager to learn and grow in the field. As a fast learner, I’m constantly seeking new challenges to improve my skills and expand my knowledge.
+I'm a Junior Data, Solution, and Process Engineer and Analyst passionate about designing and implementing data infrastructure, developing technical solutions to business challenges, and optimizing processes with a strong data analysis, database management, and programming foundation. I’m always eager to learn and grow in the field. As a fast learner, I’m constantly take on new challenges to improve my skills and expand my knowledge.
 
 I specialize in implementing solutions that solve complex problems, optimize data pipelines, and automate workflows to make processes more efficient. I also love creating visualizations that make complex data easy to understand. Whether it’s improving systems or extracting valuable trends, I’m dedicated to making data both powerful and accessible to drive better decisions.
 
@@ -72,29 +72,35 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 ## _Volunteer Experience_  
 
-[Data Research Analyst Intern – Cooledtured Collection](./cooledtured-internship.html) 
-- Conducted data research and analysis to support various initiatives within the organization, focusing on trend analysis and content performance.  
-- Collaborated closely with the stakeholders and teams to ensure alignment between data insights and strategic decisions.
-- Created visualizations and presentations to communicate findings and insights to stakeholders effectively, using tools like Figma, Genially,Tableau and Google Sheets.  
-- Conducted Competition Analysis for Inspiration by gathering and analyzing competitor data to identify key trends and potential strategies.  
-- Led Social Media Content Analysis to assess the performance and engagement of posts across multiple platforms, providing actionable insights to optimize content strategy.  
-- Identified bottlenecks within the content creation team through data-driven analysis and team observation. Proposed and implemented improvements to enhance team efficiency and resolve workflow challenges.  
-- Developed an Automated Content ELT Pipeline to streamline the extraction, transformation, and loading of social media data for further analysis, significantly reducing manual processing time.  
-  
+I've been with Cooledture Collection since October 2024, started as a Data Research Analyst intern. Overtime, I transitioned to focus on system architecture, data engineering, process optimization, and automation. I began designing and implementing data pipelines, managing data infrastructure, and developing technical solutions to improve workflows. Additionally, I worked on optimizing processes and automating tasks to enhance team efficiency.
 
+To learn more about my experience with Cooledture Collection, feel free to check out my [Internship – Cooledtured Collection](./cooledtured-internship.html) page. If you're interest in seeing the projects I’ve worked on, you can explore the [Projects section - Click here](#projects) and select the project you want to see! Some of my projects have already been completed, but I haven’t pushed them up here yet because I’m currently focused on working on projects in progress. I’ll be updating them soon. Feel free to email me if you’d like to see something in particular; my email is listed in my resume.
+
+
+  
 [Back to Table of Contents](#table-of-contents)
 
 ## _Projects_  
 **Cooledtured Internship Projects** - [Cooledtured Internship Projects Overview](./cooledtured-internship.html)  
 - **Cooledture: Data Analysis Projects** 
-    - [Competition Analysis for Inspiration](./cooledtured-internship.html#competition-analysis-for-inspiration)  
+    - [Competition Analysis for Inspiration](./cooledtured-internship.html#competition-analysis-for-inspiration-boxlunch)
+        - Conducted extensive market and social media analysis using web scraping, Google Trends, and other data mining techniques to provide actionable insights for business decisions.  
 - **Data Analysis Projects**  
-    - [Social Media Content Analysis](./cooledtured-internship.html#social-media-content-analysis)  
+    - [Social Media Content Analysis](./cooledtured-internship.html#social-media-insight-and-content-analysis)
+        - Led data collection and analysis of social media platforms, evaluating content performance and engagement to identify key factors for content strategy improvement.        
 - **Junior Solution Engineer Projects**  
-    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)  
+    - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)
+        - Analyzed and identified inefficiencies in the content creation workflow. Proposed and implemented process optimizations, improving team efficiency and reducing project delays.
+    - Data Team Optimization Strategy Project (In Progress)
+        - Worked with a team to design a strategy that enhanced communication, resource management, and cross-team collaboration, resulting in a more effective workflow.  
 - **Junior Data Engineer Projects**  
     - [Automated Content ELT Pipeline (Junior-Level))](./cooledtured-internship.html#automated-content-elt-pipeline)
-    - [Form Tracker (Entry-Level)](./cooledtured-internship.html#form-tracker)   
+        - Automated the extraction, transformation, and loading of content data into a master dataset, optimizing data handling processes and improving reporting accuracy.
+    - [Form Tracker (Entry-Level)](./cooledtured-internship.html#form-tracker)
+        - Developed an automated system for tracking and managing creator submissions, ensuring timely data collection and error-free reporting using Google Sheets.
+- **Junior Process Engineering Projects**
+    - RecruitmentFlow Automation (In Progress)
+        - Designed and implemented an automated email pipeline for the recruitment process, significantly reducing manual workload and ensuring timely communication with candidates.  
 
 **SNHU Computer Science Capstone Project** - [Computer Science Capstone Project Overview](./cs-capstone.html)
 - **Software Design and Engineering**
