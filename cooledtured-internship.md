@@ -19,9 +19,9 @@ Nothing here yet! I'll add something interesting soon.
     - [Data Team Optimization Strategy Project (Team project)](#data-team-optimization-strategy-project)
 - **Entry Level and Junior Level Data Engineer Projects**  
     - [Automated Content ELT Pipeline (solo project)](#automated-content-elt-pipeline)
-    - [Form Tracker(solo project)](#form-tracker)
+    - [Forms Tracker(solo project)](#form-tracker)
 - **Junior Process Automation Engineering Project**
-    - [RecruitmentFlow Automation (Team project)](#recruitmentflow-automation)         
+    - [RecruitmentFlow Automation (Solo project)](#recruitmentflow-automation)         
 - **Other Projects**
     - [SNHU Computer Science Capstone Project](./cs-capstone.html)
 
