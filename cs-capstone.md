@@ -3,7 +3,7 @@ layout: default
 ---
 [Back to Home Page](./)
 
-## Academic Journey at SNHU 
+# Academic Journey
 
 I began the Southern New Hampshire University (SNHU) Computer Science program in the Fall of 2020 and graduated in March 2025.Throughout this journey, I’ve developed technical skills and essential professional abilities that prepare me to be proficient in the computer science field. Completing my coursework and developing a portfolio has allowed me to showcase three of my enhanced projects focused on **_Software Engineering and Design_**, **_Algorithms and Data Structures_**, and **_Databases_**, demonstrating my strengths in the following areas: _**Collaborative Environment, Professional Communication, Computing Solutions, Innovation Techniques, and Security Mindset**_. 
 
