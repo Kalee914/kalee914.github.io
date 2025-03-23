@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 😴 Under Construction
-[Back To HomePage](./)
+[Back To HomePage](./) / [Skip to Projects Content Table](#projects-content-table)
 ## Welcome to My Cooledtured-internship projects overview
 
 ### My Experience at Cooledtured
