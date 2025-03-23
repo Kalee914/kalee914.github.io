@@ -3,10 +3,12 @@ layout: default
 ---
 
 # 😴 Under Construction
-[Back To HomePage](./) / [Skip to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Academic Journey Page](./cs-capstone.html)     
 ## Welcome to My Cooledtured-internship projects overview
 
 ### My Experience at Cooledtured
+
+[Skip to Projects Content Table](#projects-content-table)
 
 I've been with Cooledtured Collection since October 2024, initially joining as a Data Research Analyst intern for a three-month program. However, I chose to stay because of the connections I built with my peers and stakeholders and the opportunity to take on higher-level projects that challenged me to grow both technically and professionally.
 
@@ -20,20 +22,20 @@ Being part of Cooledtured has not only strengthened my technical skills but also
 
 Thank you for reading! Please feel free to check out my project content table and choose which project you'd like to explore. Some of my projects are already completed, but I haven’t uploaded them yet as I’m currently focused on projects in progress. I’ll be updating the table soon. However, some projects also have links to my presentation videos, so feel free to check those out first.
 
-[Back To HomePage](./) 
+[Back To Home Page](./) 
 
 ## _Projects Content Table_
 - **Data Analysis Projects**  
-    - [Competition Analysis for Inspiration (solo project)](#competition-analysis-for-inspiration-boxlunch) - Project Uploaded 
-    - [Social Media Content Analysis (Team project)](#social-media-insight-and-content-analysis)- Presentation Links Uploaded
+    - [Competition Analysis for Inspiration (Solo Project)](#competition-analysis-for-inspiration-boxlunch) - Project Uploaded 
+    - [Social Media Content Analysis (Team Project)](#social-media-insight-and-content-analysis)- Presentation Links Uploaded
 - **Junior Solution Engineer Projects**  
-    - [Bottleneck Analysis for Content Creation Team (solo project)](#bottleneck-analysis-for-content-creation-team) - Presentation Links Uploaded
-    - [Data Team Optimization Strategy Project (Team project)](#data-team-optimization-strategy-project) - In Progress   
+    - [Bottleneck Analysis for Content Creation Team (Solo Project)](#bottleneck-analysis-for-content-creation-team) - Presentation Links Uploaded
+    - [Data Team Optimization Strategy Project (Team Project)](#data-team-optimization-strategy-project) - In Progress   
 - **Entry Level and Junior Level Data Engineer Projects**  
-    - [Automated Content ELT Pipeline (solo project)](#automated-content-elt-pipeline) - Presentation Links Uploaded
-    - [Forms Tracker(solo project)](#forms-tracker) - Upload Soon
+    - [Automated Content ELT Pipeline (Solo Project)](#automated-content-elt-pipeline) - Presentation Links Uploaded
+    - [Forms Tracker(Solo Project)](#forms-tracker) - Upload Soon
 - **Junior Process Automation Engineering Project**
-    - [RecruitmentFlow Automation (Solo project)](#recruitmentflow-automation) - In Progress       
+    - [RecruitmentFlow Automation (Solo Project)](#recruitmentflow-automation) - In Progress       
 - **Other Projects**
     - [SNHU Computer Science Capstone Project](./cs-capstone.html)
 
@@ -59,16 +61,16 @@ To ensure comprehensive analysis, various data sources were utilized:
 This analysis provided valuable insights into how BoxLunch engages its audience, expands its physical presence, and manages employee satisfaction to drive consumer loyalty. By combining data scraping, Google Trends analysis, and manual tracking, we identified key marketing strategies that contribute to the brand’s success. The study highlights the effectiveness of exclusive products, influencer marketing, and community engagement in fostering strong customer relationships. These findings offer inspiration for refining marketing approaches in similar industries.
 
 **Self Reflection:**
-The BoxLunch Competition Analysis for Inspiration was my first project at Cooledture. Although this was a solo project, I was lucky to have a supportive team that guided me through the process and helped me stay focused on my research question, specifically identifying what types of data would be most relevant. During this project, I learned how to scrape data using Selenium WebDriver and Python Reddit API Wrapper to collect the data I needed to better understand BoxLunch. Additionally, I used Google Trends for the first time to track shifts in consumer interest, and I conducted research to uncover the reasons behind the spikes and dips in interest.
+The BoxLunch Competition Analysis for Inspiration was my first project at Cooledture. Although this was a Solo Project, I was lucky to have a supportive team that guided me through the process and helped me stay focused on my research question, specifically identifying what types of data would be most relevant. During this project, I learned how to scrape data using Selenium WebDriver and Python Reddit API Wrapper to collect the data I needed to better understand BoxLunch. Additionally, I used Google Trends for the first time to track shifts in consumer interest, and I conducted research to uncover the reasons behind the spikes and dips in interest.
 
 **Visual and Presentation:**  Below are links to Google Slide and Colab
 - [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing){:target="_blank"} – Includes insight and suggestions.
 - [R Visualization with Code](https://colab.research.google.com/drive/1AOOwmmJNTYUtVa_ZQwF90-9yWEyN01m-?usp=sharing){:target="_blank"} – Access the R code and visualizations.
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Social Media Insight and Content Analysis
-(Team project) 
+(Team Project) 
 
 **Description:**  
 **Visualization:**  
@@ -81,7 +83,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 - [2023 & 2024 Instagram Content Analysis](https://www.youtube.com/watch?v=TX37xCBqLuM&t=57s){:target="_blank"} 
 - [Genres & Content Analysis Dashboard on Google Site](https://www.youtube.com/watch?v=TX37xCBqLuM&t=576s){:target="_blank"}
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Bottleneck Analysis for Content Creation Team
 (Solo Project)
@@ -99,10 +101,10 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 - [ Solution Suggestions](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=355s){:target="_blank"} 
 - [ Solution Implementation](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=441s){:target="_blank"} 
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Data Team Optimization Strategy Project
-(Team project) (IN PROGRESS)
+(Team Project) (IN PROGRESS)
 
 **Description:**  
 **Visualization:**  
@@ -125,7 +127,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 - [Challenges Encountered in the ELT Pipeline Process](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=997s){:target="_blank"}
 - [Future Vision](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=1062s){:target="_blank"}
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Forms Tracker
 (Solo Project) 
@@ -136,10 +138,10 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 **Self Reflection:**  
 **Tutorial Video:**
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## RecruitmentFlow Automation
-(Solo project)(IN PROGRESS) 
+(Solo Project)(IN PROGRESS) 
 
 **Description:**  
 **Visualization:**  
@@ -147,7 +149,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 **Self Reflection:**  
 **Presentation** 
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table)
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Other Projects
 - **Software Design and Engineering**
@@ -157,4 +159,4 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 - **Databases** 
     - [Database Management and Data Analytics](./cs-capstone.html#enhancement-3-databases) 
 
-[Back To HomePage](./) / [Back to Projects Content Table](#projects-content-table) / [To My SNHU Academic Page](./cs-capstone.html)     
+[Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table) / [Academic Journey Page](./cs-capstone.html)     

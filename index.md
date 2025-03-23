@@ -100,7 +100,7 @@ To learn more about my experience with Cooledtured Collection, feel free to chec
     - RecruitmentFlow Automation (In Progress)
         - Designed and implemented an automated email pipeline for the recruitment process, significantly reducing manual workload and ensuring timely communication with candidates.  
 
-**SNHU Computer Science Capstone Project** - [Computer Science Capstone Project Overview](./cs-capstone.html)
+**SNHU Computer Science Capstone Project** - [Academic Journey Page](./cs-capstone.html)
 - **Software Design and Engineering**
     - [Authentication and Authorization](./cs-capstone.html#enhancement-1-software-design-and-engineering)  
 - **Algorithms and Data Structure**
