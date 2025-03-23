@@ -7,7 +7,7 @@ Hi, I’m Kalee, and welcome to my E-Portfolio! Here, you'll find my resume, det
 
 I'm a Junior Data, Solution, and Process Engineer and Analyst passionate about designing and implementing data infrastructure, developing technical solutions to business challenges, and optimizing processes with a strong data analysis, database management, and programming foundation. I’m always eager to learn and grow in the field. As a fast learner, I’m constantly take on new challenges to improve my skills and expand my knowledge.
 
-I specialize in implementing solutions that solve complex problems, optimize data pipelines, and automate workflows to make processes more efficient. I also love creating visualizations that make complex data easy to understand. Whether it’s improving systems or extracting valuable trends, I’m dedicated to making data both powerful and accessible to drive better decisions.
+I specialize in implementing solutions that solve complex problems, optimize data pipelines, and automate workflows to make processes more efficient. I also love creating visualizations that make complex data easy to understand. Whether it’s improving systems or extracting valuable trends, I’m dedicated to making data powerful and accessible to drive better decisions.
 
 Feel free to explore my projects on this website (E-Portfolio), check out my work on [GitHub](https://github.com/Kalee914), or connect with me on [LinkedIn](https://www.linkedin.com/in/kalee-l-566433184/)! 
 
@@ -72,20 +72,18 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 
 ## _Volunteer Experience_  
 
-I've been with Cooledture Collection since October 2024, started as a Data Research Analyst intern. Overtime, I transitioned to focus on system architecture, data engineering, process optimization, and automation. I began designing and implementing data pipelines, managing data infrastructure, and developing technical solutions to improve workflows. Additionally, I worked on optimizing processes and automating tasks to enhance team efficiency.
+I've been with Cooledtured Collection since October 2024, started as a Data Research Analyst intern. Overtime, I transitioned to focus on system architecture, data engineering, process optimization, and automation. I began designing and implementing data pipelines, managing data infrastructure, and developing technical solutions to improve workflows. Additionally, I worked on optimizing processes and automating tasks to enhance team efficiency.
 
-To learn more about my experience with Cooledture Collection, feel free to check out my [Internship – Cooledtured Collection](./cooledtured-internship.html) page. If you're interest in seeing the projects I’ve worked on, you can explore the [Projects section - Click here](#projects) and select the project you want to see! Some of my projects have already been completed, but I haven’t pushed them up here yet because I’m currently focused on working on projects in progress. I’ll be updating them soon. Feel free to email me if you’d like to see something in particular; my email is listed in my resume.
-
+To learn more about my experience with Cooledtured Collection, feel free to check out my [Internship – Cooledtured Collection](./cooledtured-internship.html) page. If you're interest in seeing the projects I’ve worked on, you can explore the [Projects section - Click here](#projects) and select the project you want to see! Some of my projects have already been completed, but I haven’t pushed them up here yet because I’m currently focused on working on projects in progress. I’ll be updating them soon. Feel free to email me if you’d like to see something in particular; my email is listed in my resume.
 
   
 [Back to Table of Contents](#table-of-contents)
 
 ## _Projects_  
 **Cooledtured Internship Projects** - [Cooledtured Internship Projects Overview](./cooledtured-internship.html)  
-- **Cooledture: Data Analysis Projects** 
+- **Data Analysis Projects** 
     - [Competition Analysis for Inspiration](./cooledtured-internship.html#competition-analysis-for-inspiration-boxlunch)
         - Conducted extensive market and social media analysis using web scraping, Google Trends, and other data mining techniques to provide actionable insights for business decisions.  
-- **Data Analysis Projects**  
     - [Social Media Content Analysis](./cooledtured-internship.html#social-media-insight-and-content-analysis)
         - Led data collection and analysis of social media platforms, evaluating content performance and engagement to identify key factors for content strategy improvement.        
 - **Junior Solution Engineer Projects**  
@@ -96,7 +94,7 @@ To learn more about my experience with Cooledture Collection, feel free to check
 - **Junior Data Engineer Projects**  
     - [Automated Content ELT Pipeline (Junior-Level))](./cooledtured-internship.html#automated-content-elt-pipeline)
         - Automated the extraction, transformation, and loading of content data into a master dataset, optimizing data handling processes and improving reporting accuracy.
-    - [Form Tracker (Entry-Level)](./cooledtured-internship.html#form-tracker)
+    - [Forms Tracker (Entry-Level)](./cooledtured-internship.html#forms-tracker)
         - Developed an automated system for tracking and managing creator submissions, ensuring timely data collection and error-free reporting using Google Sheets.
 - **Junior Process Engineering Projects**
     - RecruitmentFlow Automation (In Progress)
