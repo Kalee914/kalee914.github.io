@@ -84,7 +84,7 @@ In addition to our data, we analyzed **eight competitor companies** to learn abo
 We used these insights to make actionable suggestions to help the content team improve their formatting and content delivery.  
 
 **Visualization:** 
-- [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing){:target="_blank"} – Includes insights and suggestions  
+- [Google Slide Presentation](https://docs.google.com/presentation/d/1ErZ5zW88WUjm7I04sT3ALq-vmGJTkJUiT8VaXjb5WxU/edit?usp=sharing){:target="_blank"} – Includes insights and suggestions  
 - [R Visualization with Code](https://colab.research.google.com/drive/1s1e9zrOgGsg3Zero4qErDtDmNrOq9sHa?usp=sharing){:target="_blank"} – Access the R code and visualizations
 
 **Project Reflection:**
