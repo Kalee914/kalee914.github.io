@@ -27,15 +27,15 @@ Thank you for reading! Please feel free to check out my project content table an
 ## _Projects Content Table_
 - **Data Analysis Projects**  
     - [Competition Analysis for Inspiration (Solo Project)](#competition-analysis-for-inspiration-boxlunch) - Project Uploaded 
-    - [Social Media Content Analysis (Team Project)](#social-media-insight-and-content-analysis)- Presentation Links Uploaded
+    - [Social Media Content Analysis (Team Project)](#social-media-insight-and-content-analysis)- Project & Presentation Links Uploaded
 - **Junior Solution Engineer Projects**  
     - [Bottleneck Analysis for Content Creation Team (Solo Project)](#bottleneck-analysis-for-content-creation-team) - Presentation Links Uploaded
-    - [Data Team Optimization Strategy Project (Team Project)](#data-team-optimization-strategy-project) - In Progress   
+    - [Data Team Optimization Strategy Project (Team Project)](#data-team-optimization-strategy-project) - Completed. Upload Soon
 - **Entry Level and Junior Level Data Engineer Projects**  
     - [Automated Content ELT Pipeline (Solo Project)](#automated-content-elt-pipeline) - Presentation Links Uploaded
-    - [Forms Tracker(Solo Project)](#forms-tracker) - Upload Soon
+    - [Forms Tracker(Solo Project)](#forms-tracker) - Completed. Upload Soon
 - **Junior Process Automation Engineering Project**
-    - [RecruitmentFlow Automation (Solo Project)](#recruitmentflow-automation) - In Progress       
+    - [RecruitmentFlow Automation (Solo Project)](#recruitmentflow-automation) - Completed. Upload Soon      
 - **Other Projects**
     - [SNHU Computer Science Capstone Project](./cs-capstone.html)
 
@@ -72,10 +72,33 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 ## Social Media Insight and Content Analysis
 (Team Project) 
 
-**Description:**  
-**Visualization:**  
+**Description:** 
+This project focused on analyzing Instagram content from **2021 to 2024**. The goal was to understand what types of posts performed best and how engagement varied across different content formats. Our main research questions were:
+
+- **Which posts or content types perform best?**
+- **What is the engagement rate** (likes, comments, shares, saves) **for each content type?**
+- **How could data from Instagram Insights help improve content formatting and delivery?**
+
+In addition to our data, we analyzed **eight competitor companies** to learn about their background, growth strategies, and social media performance.
+
+We used these insights to make actionable suggestions to help the content team improve their formatting and content delivery.  
+
+**Visualization:** 
+- [Google Slide Presentation](https://docs.google.com/presentation/d/12nC_Oh535FDbhp-xkJqxMid0yMfgVt5Ajw-D0nb7mf8/edit?usp=sharing){:target="_blank"} – Includes insights and suggestions  
+- [R Visualization with Code](https://colab.research.google.com/drive/1s1e9zrOgGsg3Zero4qErDtDmNrOq9sHa?usp=sharing){:target="_blank"} – Access the R code and visualizations
+
 **Project Reflection:**
-**Self Reflection:**  
+Throughout the project, we saw the importance of clearly defined research questions and aligning them with the available data. While Instagram Insights offered valuable metrics, the data lacked the level of detail we needed for deeper analysis. As a result, we manually reviewed and classified each post by content type to ensure more accurate and relevant insights.
+
+One improvement we identified was updating the content team’s submission process. By adjusting the format to align with engagement metrics provided by Instagram, we can create a more complete dataset in the future. This will help support ongoing performance tracking and enable more meaningful analysis over time.
+
+**Self Reflection:**
+This project taught me how bridge the gap between quantitative data and qualitative content insights. I realized that numbers alone don’t tell the full story - context, sentiment, and strategy play a huge role in audience engagement.
+
+When we saw the limitations of the existing data, I took the initiative to suggest a change to the content submission format so that future data could be more easily linked to performance metrics. It felt great to contribute something that could make a long-term impact on how we track and improve content.
+
+Overall, this experience strengthened my analytical thinking, attention to detail, and ability to connect data with real-world applications.
+
 **Presentation Video:** Below are links to key parts of the presentation video:
 - [Progress FlowChart](https://www.youtube.com/watch?v=gZbEl0Yac_Q&t=45s){:target="_blank"} 
 - [Research Question](https://www.youtube.com/watch?v=gZbEl0Yac_Q&t=272s){:target="_blank"} 
@@ -104,7 +127,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 [Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Data Team Optimization Strategy Project
-(Team Project) (IN PROGRESS)
+(Team Project) Completed. Upload Soon
 
 **Description:**  
 **Visualization:**  
@@ -130,7 +153,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 [Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## Forms Tracker
-(Solo Project) 
+(Solo Project) Completed. Upload Soon
 
 **Description:**  
 **Security**  
@@ -141,7 +164,7 @@ The BoxLunch Competition Analysis for Inspiration was my first project at Cooled
 [Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
 ## RecruitmentFlow Automation
-(Solo Project)(IN PROGRESS) 
+(Solo Project)Completed. Upload Soon 
 
 **Description:**  
 **Visualization:**  

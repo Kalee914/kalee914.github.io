@@ -133,6 +133,6 @@ To learn more about my experience with Cooledtured Collection, feel free to chec
 ## _Resume_  
 You can view and download my resume here:  
 
-[Download My Resume (PDF)](assets/KaLee_Li_Resume_Watermarked_25.pdf){:target="_blank"}
+[Download My Resume (PDF)](assets/Kalee Li - Data, Solution, and Process Engineer and Analyst Resume (Watermarked).pdf){:target="_blank"}
 
 [Back to Table of Contents](#table-of-contents)
