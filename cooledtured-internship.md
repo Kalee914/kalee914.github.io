@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-# 😴 Under Construction
-[Back To Home Page](./) / [Academic Journey Page](./cs-capstone.html)     
+[Home Page](./) | [Internship](./cooledtured-internship.html) | [Academic Journey](./cs-capstone.html)  
+# 🚧 Under Construction
+   
 ## Welcome to My Cooledtured-internship projects overview
 
 ### My Experience at Cooledtured
@@ -20,7 +20,7 @@ Throughout my time here, I’ve mainly used Google Apps Script and Python to bui
 
 Being part of Cooledtured has not only strengthened my technical skills but also helped me grow personally and professionally in meaningful ways.
 
-Thank you for reading! Please feel free to check out my project content table and choose which project you'd like to explore. Some of my projects are already completed, but I haven’t uploaded them yet as I’m currently focused on projects in progress. I’ll be updating the table soon. However, some projects also have links to my presentation videos, so feel free to check those out first.
+Feel free to browse my project content table and explore any project that interests you. Most of the completed projects are uploaded, and more will be added soon as I continue working on new ones.
 
 [Back To Home Page](./) 
 
@@ -29,13 +29,13 @@ Thank you for reading! Please feel free to check out my project content table an
     - [Competition Analysis for Inspiration (Solo Project)](#competition-analysis-for-inspiration-boxlunch) - Project Uploaded 
     - [Social Media Content Analysis (Team Project)](#social-media-insight-and-content-analysis)- Project & Presentation Links Uploaded
 - **Junior Solution Engineer Projects**  
-    - [Bottleneck Analysis for Content Creation Team (Solo Project)](#bottleneck-analysis-for-content-creation-team) - Presentation Links Uploaded
-    - [Data Team Optimization Strategy Project (Team Project)](#data-team-optimization-strategy-project) - Completed. Upload Soon
+    - [Bottleneck Analysis for Content Creation Team (Solo Project)](#bottleneck-analysis-for-content-creation-team) - Project Uploaded
+    - [Data Team Optimization Strategy Project (Team Project)](#data-team-optimization-strategy-project) - Project Uploaded
 - **Entry Level and Junior Level Data Engineer Projects**  
-    - [Automated Content ELT Pipeline (Solo Project)](#automated-content-elt-pipeline) - Presentation Links Uploaded
+    - [Automated Content ELT Pipeline (Solo Project)](#automated-content-elt-pipeline) - Project Uploaded
     - [Forms Tracker(Solo Project)](#forms-tracker) - Completed. Upload Soon
 - **Junior Process Automation Engineering Project**
-    - [RecruitmentFlow Automation (Solo Project)](#recruitmentflow-automation) - Completed. Upload Soon      
+    - [HR Automation (Solo Project)](#hr-automation-system-internship-recruitment-system) - Project Uploaded     
 - **Other Projects**
     - [SNHU Computer Science Capstone Project](./cs-capstone.html)
 
@@ -83,10 +83,6 @@ In addition to our data, we analyzed **eight competitor companies** to learn abo
 
 We used these insights to make actionable suggestions to help the content team improve their formatting and content delivery.  
 
-**Visualization:** 
-- [Google Slide Presentation](https://docs.google.com/presentation/d/1ErZ5zW88WUjm7I04sT3ALq-vmGJTkJUiT8VaXjb5WxU/edit?usp=sharing){:target="_blank"} – Includes insights and suggestions  
-- [R Visualization with Code](https://colab.research.google.com/drive/1s1e9zrOgGsg3Zero4qErDtDmNrOq9sHa?usp=sharing){:target="_blank"} – Access the R code and visualizations
-
 **Project Reflection:**
 Throughout the project, we saw the importance of clearly defined research questions and aligning them with the available data. While Instagram Insights offered valuable metrics, the data lacked the level of detail we needed for deeper analysis. As a result, we manually reviewed and classified each post by content type to ensure more accurate and relevant insights.
 
@@ -98,6 +94,10 @@ This project taught me how bridge the gap between quantitative data and qualitat
 When we saw the limitations of the existing data, I took the initiative to suggest a change to the content submission format so that future data could be more easily linked to performance metrics. It felt great to contribute something that could make a long-term impact on how we track and improve content.
 
 Overall, this experience strengthened my analytical thinking, attention to detail, and ability to connect data with real-world applications.
+
+**Visualization:** 
+- [Google Slide Presentation](https://docs.google.com/presentation/d/1ErZ5zW88WUjm7I04sT3ALq-vmGJTkJUiT8VaXjb5WxU/edit?usp=sharing){:target="_blank"} – Includes insights and suggestions  
+- [R Visualization with Code](https://colab.research.google.com/drive/1s1e9zrOgGsg3Zero4qErDtDmNrOq9sHa?usp=sharing){:target="_blank"} – Access the R code and visualizations
 
 **Presentation Video:** Below are links to key parts of the presentation video:
 - [Progress FlowChart](https://www.youtube.com/watch?v=gZbEl0Yac_Q&t=45s){:target="_blank"} 
@@ -111,10 +111,18 @@ Overall, this experience strengthened my analytical thinking, attention to detai
 ## Bottleneck Analysis for Content Creation Team
 (Solo Project)
 
-**Description:**  
-**Visualization:**  
+**Description:**
+This project aimed to identify and analyze bottlenecks within the content creation team's workflow in order to improve overall efficiency, clarity, and productivity. The analysis was based on my observations during team shadowing, and Agile-aligned suggestions. I investigated pain points in onboarding, communication, workflow visibility, and role-based training, with the goal of proposing actionable solutions.
+
 **Project Reflection:**
-**Self Reflection:**  
+This project revealed that structural inefficiencies in the content creation team, such as disorganized resources, unclear instructions, and generic onboarding, led to confusion. Although a content creation process existed, it was spread across too many pages, leaving the team to piece things together on their own. Creating role-specific training and establishing clear workflows made the process easier to follow and helped the team work more effectively.
+
+**Self Reflection:**
+Through this project, I strengthened my skills in process analysis, UX thinking, and Agile implementation. Shadowing the team helped me understand users at different experience levels, and creating structured, visual solutions improved my ability to communicate processes clearly. I also learned the importance of adapting onboarding and training to the unique strengths of a diverse team. This experience deepened my understanding of internal operations and increased my confidence in identifying and addressing organizational inefficiencies.
+
+**Presentation:**
+ [Google Slides - Bottleneck Analysis](https://docs.google.com/presentation/d/1SjsnlKsHli-jazOvEaW0L5XfCHZZusmi5No5R2_Hiaw/edit?usp=sharing){:target="_blank"} 
+
 **Presentation Video:** Below are links to key parts of the presentation video:
 - [Research Question](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=9s){:target="_blank"} 
 - [Introduction ( Purpose, Process, Goal )](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=35s){:target="_blank"} 
@@ -129,19 +137,37 @@ Overall, this experience strengthened my analytical thinking, attention to detai
 ## Data Team Optimization Strategy Project
 (Team Project) Completed. Upload Soon
 
-**Description:**  
-**Visualization:**  
+**Description:**
+This project focused on optimizing the data team’s structure, improving efficiency and collaboration, and aligning team efforts more closely with company goals. As the team transitioned from “Data Research” to a more defined “Data Team,” which included data analysts, data scientists, BI professionals, and data engineers, it became clear that we needed greater role clarity, stronger alignment with company objectives, and better use of each member’s technical expertise.
+
+
 **Project Reflection:**
-**Self Reflection:**  
-**Presentation Video:** Below are links to key parts of the presentation video:
+The Data Team Optimization project addressed key structural challenges within the team, such as unclear roles, a lack of onboarding roadmap, and misalignment with company goals. By defining responsibilities, improving onboarding structure, and encouraging collaboration, the project led to more efficient workflows and better use of each member's skills. Standardized documentation and proposal processes helped reduce confusion, while structured role exploration allowed interns to contribute more meaningfully. Overall, the project strengthened internal operations and improved the team's ability to deliver high-impact, goal-aligned work.
+
+**Self Reflection:**
+Since joining the data team in October 2024, I have gained a deeper understanding of how team structure, communication, and onboarding impact overall performance. Being part of the optimization project allowed me to contribute to meaningful improvements. I helped define roles and responsibilities, implement a structured onboarding process, and align team proposals with business priorities. I also worked on creating role-specific onboarding materials, a knowledge hub, and a roadmap template to standardize proposals and documentation. To improve deliverables, we added SDLC frameworks, researched technical tutorial links for the knowledge hub, and included project-based certificates as incentives for interns within the roadmap. Additionally, to support visibility and growth, we introduced an e-portfolio tutorial in the knowledge hub and a LinkedIn-sharing box on our member portal. This experience strengthened my ability to identify gaps, support team development, and contribute to impactful, goal-aligned solutions.
+
+**Presentation:** 
+[Google Slides - Data Team Optimization Strategy Project ](https://docs.google.com/presentation/d/1LF8fHC6-34RGRZmMNcqv6G850nHDRZ8XoOWyEKDP8DE/edit?usp=sharing){:target="_blank"} 
+
 ## Automated Content ELT Pipeline
 (Solo Project) 
 
 **Description:**
-**Security**    
-**Visualization:**  
+The Automated Content ELT Pipeline project aimed to improve the data collection, processing, and analysis for the content creation team. We transitioned from Google Docs to Google Forms for content submissions, enabling easier data export as CSV files. The pipeline extracts, loads, and transforms the data, linking creators to their content via unique IDs and connecting with social media metrics. This setup facilitates detailed content and performance analysis, supports creating visual progress reports for creators, and helps identify platform effectiveness for various content types. T
+
+**Security**
+The entire pipeline is automated using App Script, running updates every 10 minutes while securely protecting private information by anonymizing creators with unique IDs. Additionally, the sheets are restricted throughout the entire ELT process (extracting, transforming, and loading) to prevent unauthorized access.
+
 **Project Reflection:**
-**Self Reflection:**  
+Initially, the available data was limited and inconsistently formatted, necessitating the manual classification of posts by genre, content, and style to establish a reliable baseline. This project successfully addressed these challenges by restructuring data collection and processing methods. Transitioning from Google Docs to Google Forms and building an automated ELT pipeline enabled more accurate, unbiased, and in-depth analysis. Standardizing column names, removing duplicates, and validating data greatly improved overall data quality. The pipeline’s design supports continuous updates, protects sensitive information, and creates opportunities for future projects that combine qualitative and quantitative data to yield richer insights. Ultimately, the project optimized data workflows and laid a strong foundation for Cooledtured to use data as a strategic asset for growth and industry leadership.
+
+**Self Reflection:**
+Working on the Automated Content ELT Pipeline has deepened my technical skills in data engineering, automation, and data quality management. I gained hands-on experience designing a system that balances data accessibility with privacy, ensuring creators’ information remains secure while enabling powerful analytics. Troubleshooting inconsistencies during the transformation phase strengthened my problem-solving abilities and attention to detail. I also developed a stronger understanding of how structured data pipelines can directly impact business insights and strategic decisions. This project has increased my confidence in managing end-to-end data workflows and envisioning long-term value for data-driven initiatives.
+
+**Entity Relationship (ER) Diagram:**
+[Lucid Chart - Content Submission ERD](https://lucid.app/lucidchart/a94c72aa-a3ec-4799-916a-0f6c70f1df71/edit?viewport_loc=-7279%2C-2969%2C16900%2C7145%2C0_0&invitationId=inv_c0d784ea-46ba-4165-910c-3110cb0d686f){:target="_blank"}
+
 **Presentation Video:** Below are links to key parts of the presentation video:
 - [Content and Media Platform Entity Relationship Diagram](https://www.youtube.com/watch?v=gZbEl0Yac_Q&t=159s){:target="_blank"}
 - [ELT Pipeline Deployed ](https://www.youtube.com/watch?v=y5fjqUeuxR0&t=786s){:target="_blank"}
@@ -163,14 +189,24 @@ Overall, this experience strengthened my analytical thinking, attention to detai
 
 [Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 
-## RecruitmentFlow Automation
-(Solo Project)Completed. Upload Soon 
+## HR Automation System (Internship Recruitment System)
+(Solo Project) 
 
-**Description:**  
-**Visualization:**  
+**Description:**
+The HR Automation System is a comprehensive recruitment management solution designed to streamline the internship hiring process by reducing manual tasks and centralizing candidate tracking. The system integrates Gmail, Google Sheets, Google Drive, and Python-based NLP tools to automate onboarding emails, interview scheduling, resume parsing, and applicant status updates. It uses Gmail API to bypass email limits, custom Apps Script workflows for data movement and filtering, and NLP-driven resume scanning to extract key details from uploaded files. Real-time data consolidation to give the HR team an accurate and centralized view of each applicant's progress tracking, making large-scale recruitment more efficient, organized, and secure.
+
 **Project Reflection:**
-**Self Reflection:**  
-**Presentation** 
+This project solves key challenges faced in high volume internship recruitment—namely, inefficiency, miscommunication, and human error. By automating email communication, interview tracking, and resume data extraction, the system eliminates repetitive work and minimizes oversight. It has also proven scalable, allowing the team to manage hundreds of applicants without increasing manual workload. 
+
+**Self Reflection:**
+Building this system deepened my skills in workflow automation, data integration, and secure access management. I learned how to effectively combine APIs, Apps Script, and Python tools to build a real-world, end-to-end solution. I also became more intentional about code organization and system design, structuring features around real user needs. Through troubleshooting and iteration, I improved my ability to think systematically, debug across platforms, and design scalable tools that make a measurable impact on team productivity.
+
+**Presentation:** 
+- [Google Slide - HR Automation System (Internship Recruitment System)](https://docs.google.com/presentation/d/1AZICgNXtu0mpbX0mHSVyvpU8pBXopWis2-5Xiu2FZV8/edit?usp=sharing){:target="_blank"}
+- [GitHub - Code Reivew](https://github.com/Kalee914/HR_Automation_System.git){:target="_blank"}
+
+**Presentation Video:** 
+[HR Automation System V1](https://youtu.be/MDEzwIR4pNQ){:target="_blank"}
 
 [Back To Home Page](./) / [Back to Projects Content Table](#projects-content-table)
 

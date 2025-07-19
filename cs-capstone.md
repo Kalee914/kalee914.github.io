@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Back to Home Page](./) / [Cooledtured Internship Projects Overview](./cooledtured-internship.html) 
+[Home Page](./) | [Internship](./cooledtured-internship.html) | [Academic Journey](./cs-capstone.html)  
 
 # Academic Journey
 

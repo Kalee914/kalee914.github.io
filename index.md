@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Home Page](./) | [Internship](./cooledtured-internship.html) | [Academic Journey](./cs-capstone.html)  
 # _Introduction_
 
 Hi, I’m Kalee, and welcome to my E-Portfolio! Here, you'll find my resume, details about my areas of specialization, projects I've worked on, and more about my journey. Feel free to jump straight to the table of contents to explore, or keep scrolling to check out everything I’ve shared! [Skip to Table of Contents](#table-of-contents)
@@ -25,25 +26,22 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 ## _Technical Skills_
 
 **Programming Languages:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python (Pandas, Matplotlib, NumPy), R, JavaScript, C++  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python (Pandas, Matplotlib, NumPy), R, JavaScript, VBA, SQL
 
 **Databases & Warehousing:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RDBMS (SQL, MySQL, SQLite), NoSQL (MongoDB, Mongoose, Firebase), BigQuery  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RDBMS (SQL, MySQL, SQLite), NoSQL (MongoDB), BigQuery  
 
 **Data Engineering:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL, Data Pipelines, Data Transformation, Web Scraping (Selenium, BeautifulSoup), API Wrapper/crawler (e.g., asyncpraw, tweepy, pytrends, Jikan). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL, Data Pipelines, Data Transformation, Web Scraping (Selenium, BeautifulSoup), API Wrapper/ Data Collection (e.g., asyncpraw, tweepy, pytrends, Jikan). 
 
 **Data Analysis & Mining:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Trend Analysis (Google Trends API/Pytrends), Classification, Text Mining  
 
-**Visualization & Reporting:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau, Power BI, Excel, Google Sheets, ggplot (R), Lucidchart, GoogleSlide, Genially  
-
-**Frameworks & Tech:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js, Angular, Node.js (MEAN Stack)
+**Visualization, Reporting & Presentation Tools:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau, Power BI, Excel(XLOOKUP, Pivot Tables, Formulas), Google Sheets (VLOOKUP, Pivot Tables, Formulas), ggplot (R), Lucidchart, Google Slide, Genially  
 
 **Tools & Environments:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Visual Studio, Eclipse, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, Google App Script, MS Power Platform 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codio, Jupyter Notebook, Colab, MS Office, Google Workspace, PyCharm, VS Code, Google App Script, MS Power Platform, Excel, IBM Cloud, phpMyAdmin
 
 **Project Management:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDLC | Agile (Scrum) | Waterfall  
@@ -56,7 +54,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern New Hampshire University — March 2023  
 
 **Bachelor of Science in Computer Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern New Hampshire University — March 2025  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern New Hampshire University — April 2025  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computer Science Capstone Project](./cs-capstone.html)  
 
 ## _Certifications_  
@@ -89,7 +87,7 @@ To learn more about my experience with Cooledtured Collection, feel free to chec
 - **Junior Solution Engineer Projects**  
     - [Bottleneck Analysis for Content Creation Team](./cooledtured-internship.html#bottleneck-analysis-for-content-creation-team)
         - Analyzed and identified inefficiencies in the content creation workflow. Proposed and implemented process optimizations, improving team efficiency and reducing project delays.
-    - Data Team Optimization Strategy Project (In Progress)
+    - [Data Team Optimization Strategy Project](./cooledtured-internship.html#data-team-optimization-strategy-project)
         - Worked with a team to design a strategy that enhanced communication, resource management, and cross-team collaboration, resulting in a more effective workflow.  
 - **Junior Data Engineer Projects**  
     - [Automated Content ELT Pipeline (Junior-Level))](./cooledtured-internship.html#automated-content-elt-pipeline)
@@ -97,7 +95,7 @@ To learn more about my experience with Cooledtured Collection, feel free to chec
     - [Forms Tracker (Entry-Level)](./cooledtured-internship.html#forms-tracker)
         - Developed an automated system for tracking and managing creator submissions, ensuring timely data collection and error-free reporting using Google Sheets.
 - **Junior Process Engineering Projects**
-    - RecruitmentFlow Automation (In Progress)
+    - [HR Automation System](./cooledtured-internship.html#hr-automation-system-internship-recruitment-system)
         - Designed and implemented an automated email pipeline for the recruitment process, significantly reducing manual workload and ensuring timely communication with candidates.  
 
 **SNHU Computer Science Capstone Project** - [Academic Journey Page](./cs-capstone.html)
