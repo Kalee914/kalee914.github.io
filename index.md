@@ -19,7 +19,7 @@ Feel free to explore my projects on this website (E-Portfolio), check out my wor
 - [Volunteer Experience At Cooledture Collection](#volunteer-experience)
 - [Projects](#projects)
 - [Soft Skills](#soft-skills)
-- [Download My Resume (PDF)](assets/Kalee Li - 2025 Resume (Watermarked).pdf){:target="_blank"}
+- [Download My Resume (PDF)](assets/Kalee_Li_2025_Resume_(Watermarked).pdf){:target="_blank"}
 
 [Back to Introduction](#introduction)
 
@@ -131,6 +131,6 @@ To learn more about my experience with Cooledtured Collection, feel free to chec
 ## _Resume_  
 You can view and download my resume here:  
 
-[Download My Resume (PDF)](assets/Kalee Li - 2025 Resume (Watermarked).pdf){:target="_blank"}
+[Download My Resume (PDF)](assets/Kalee_Li_2025_Resume_(Watermarked).pdf){:target="_blank"}
 
 [Back to Table of Contents](#table-of-contents)
