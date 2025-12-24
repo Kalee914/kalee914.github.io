@@ -30,3 +30,34 @@ a {
 a:hover {
     color: #00c8ff; 
 }
+
+.link-tooltip {
+  position: relative;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+.link-tooltip a {
+  text-decoration: none;
+  color: #1a0dab;
+  font-weight: bold;
+}
+
+.link-tooltip .tooltip-image {
+  visibility: hidden;
+  width: 300px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 4px;
+  position: absolute;
+  top: 120%; /* position below the link */
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.link-tooltip:hover .tooltip-image {
+  visibility: visible;
+}
