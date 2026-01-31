@@ -38,6 +38,6 @@ Active Listening \| Critical & Analytical Thinking \| Problem Solving \| Collabo
 ## _Resume_  
 You can view and download my resume here:  
 
-[Download My Resume (PDF)](assets/Kalee_Li_2025_Resume_(Watermarked).pdf){:target="_blank"}
+[Download My Resume (PDF)](assets/Kalee Li - 2026 Resume (DONOTCOPY).pdf){:target="_blank"}
 
 
